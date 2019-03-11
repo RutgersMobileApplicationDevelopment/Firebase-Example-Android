@@ -5,5 +5,5 @@
     <string name="email">Email</string>
     <string name="prompt_sign_in">Sign In</string>
     <string name="prompt_sign_out">Sign Out</string>
-    <string name="prompt_create">Create</string>
+    <string name="prompt_create">Create User</string>
 </resources>
